@@ -14,3 +14,6 @@ alias ifconfig="ipconfig"
 alias git="hub"
 
 PS1="$RED\u $YELLOW\W$CYAN\$(__git_ps1) $LIGHTGRAY\\$ "
+
+# added by travis gem
+[ -f C:/Users/paul/.travis/travis.sh ] && source C:/Users/paul/.travis/travis.sh
