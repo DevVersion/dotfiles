@@ -2,5 +2,11 @@
   "editor.fontSize": 15,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
-  "autoimport.spaceBetweenBraces": false
+  "autoimport.spaceBetweenBraces": false,
+
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/dist": true
+  }
 }
