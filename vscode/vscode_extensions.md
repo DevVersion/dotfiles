@@ -1,0 +1,3 @@
+- akamud.vscode-theme-onedark
+- eg2.tslint
+- steoates.autoimport
