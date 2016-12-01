@@ -8,5 +8,8 @@
     "**/.git": true,
     "**/node_modules": true,
     "**/dist": true
-  }
+  },
+  
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+  
 }
